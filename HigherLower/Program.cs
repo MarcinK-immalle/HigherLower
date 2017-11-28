@@ -14,6 +14,7 @@ namespace HigherLower
             string invoer ="";
             int invoerGetal = 0;
 
+            Console.WriteLine("Gok het getal, het zit tussen 1 en 50!");
             while (invoerGetal != getal)
             {
                 invoer = Console.ReadLine();
